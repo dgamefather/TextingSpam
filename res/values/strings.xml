@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Texting Spam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="success_mess">Your message has been sent!</string>
+    <string name="epic_fail_mess">Error404!  Your message could not be sent...</string>
+
+</resources>
